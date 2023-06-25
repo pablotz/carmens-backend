@@ -1,0 +1,32 @@
+{
+    "name": "Pay de queso",
+    "description": "Pay de queso sencillo",
+    "ingredients": [
+        {
+            "name": "Galletas Marías",
+            "unit": 20,
+            "type": "unidades"
+        },
+        {
+            "name": "Mantequilla",
+            "unit": 100,
+            "type": "gr"
+        },
+        {
+            "name": "Queso crema",
+            "unit": 300,
+            "type": "gr"
+        },
+        {
+            "name": "Escencia de vainilla",
+            "unit": 1,
+            "type": "cucharada"
+        }
+    ],
+    "steps": [
+        "Precalienta el horno a 180 °C.",
+        "Muele las galletas y mézclalas con la mantequilla derretida. Cubre el fondo de un molde para pay con esta mezcla y presiona con una cuchara para que quede compacta",
+        "Licúa el queso crema con la leche condensada, los huevos y la vainilla. Vierte la mezcla sobre la base de galletas y hornea durante 30 minutos o hasta que esté firme. Deja enfriar y refrigera por 2 horas."
+    ],
+    "image":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2017%2F03%2F29%2Fpay-de-queso-al-horno.jpg-2000.jpg&q=60"
+}
